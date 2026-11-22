@@ -281,6 +281,7 @@ From script to finished cut.
 - **[app.yumcut.com](https://github.com/IgorShadurin/app.yumcut.com)** `★ 917` · Turns a prompt into vertical videos for TikTok, Reels and YouTube Shorts.
 - **[podcast-maker](https://github.com/FelippeChemello/podcast-maker)** `★ 712` · Automated video maker that turns newsletters into daily YouTube videos with motion graphics and TTS.
 - **[Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader)** `★ 686` · Pulls scripts from Reddit, lets you edit them, then makes and uploads text-to-speech videos.
+- **[Clips Kitty](https://github.com/ColinGPT9/clips-studio)** · Windows app that turns Twitch, Kick and YouTube VODs into captioned 9:16 shorts on your own PC, with speaker tracking and an MCP server so AI agents can run it.
 - **[gemini-youtube-automation](https://github.com/ChaitanyaEswarRajeshJakki/gemini-youtube-automation)** `★ 383` · Autonomous Python pipeline that uses LLMs such as Gemini to generate YouTube content.
 - **[claude-faceless-shorts-creator](https://github.com/hassancs91/claude-faceless-shorts-creator)** `★ 366` · Faceless YouTube Shorts factory driven by Claude Code, with Remotion visuals and ElevenLabs voice.
 - **[Clip-Anything](https://github.com/SamurAIGPT/Clip-Anything)** `★ 315` · Clips any moment from any video based on text prompts.
